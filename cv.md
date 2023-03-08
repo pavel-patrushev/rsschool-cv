@@ -1,5 +1,4 @@
 # Pavel Patrushev
-## CV Intern/Beginner/Junior Frontend
 
 ### Personal information
 Male 33 years old, 30.03.1989  
@@ -7,8 +6,8 @@ Belarus, Mogilev (ready to relocate)
 phone: +375293695068  
 patrushevps@gmail.com 
 @patrushevps (telegram)  
-********************************
-**I want to obtain a position as an Beginner/Junior Frontend**
+
+I want to obtain a position as an **Intern/Beginner/Junior Frontend**
 
 ### Education:
 * 2011, Belarusian State Agricultural Academy,
