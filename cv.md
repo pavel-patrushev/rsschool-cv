@@ -1,16 +1,22 @@
 # Pavel Patrushev
+![photo](/rsschool-cv/img/photo.png)
 
 ### Personal information
 Male 33 years old, 30.03.1989  
 Belarus, Mogilev (ready to relocate)  
-phone: +375293695068  
-patrushevps@gmail.com 
+phone: +375 (29) 3695068  
+patrushevps@gmail.com  
 @patrushevps (telegram)  
+patrushev25 (skype)  
+dissident#4028 (discord)
 
+### Profile
+
+I'm Pavel Patrushev. I am a experienced surveyor, little experienced manual QA, and just a beginner frontender.
 I want to obtain a position as an **Intern/Beginner/Junior Frontend**
 
 ### Education:
-* 2011, Belarusian State Agricultural Academy,
+* 2007 - 2011, Belarusian State Agricultural Academy,
 Land Management Faculty 
 
 ### Courses:
@@ -20,9 +26,11 @@ Land Management Faculty
 [Сертификат](https://stepik.org/cert/1825448)
 
 ### Work experience:
-* 2011 - now 
+* May 2011 - April 2013 
+    - Engineer in «Belgiprozem Research Institute»
+* April 2013 - now 
     - Geodesist in «Belgiprotopgaz Research Institute»
-* 2021 - now 
+* April 2021 - now 
     - Tester assessor remote in "Yandex"
 
 ### Skills:
@@ -31,18 +39,19 @@ Land Management Faculty
  - Git
  - Figma
  - VS Code
+ - AutoCad :)
 
 ### Code Example:
+ - List Filtering
  ```
- function showAlert() {
-    var name = document.getElementById("fullName").value;
-    alert("Hello " + name + "!");
-    }
+function filter_list(l) {
+  let result = l.filter(n => typeof n === 'number');
+  return(result);
+}
  ``` 
 
  ### Language:
  - Russian
  - Belarusian
- - English (А2)
-test
-dasdgi
+ - Ukranian 
+ - English (А2) :(
